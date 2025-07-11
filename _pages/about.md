@@ -7,8 +7,8 @@ subtitle: "<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc."
 
 ## Affiliations
 
-M.S. in ECE, [University of Southern California](https://minghsiehece.usc.edu)
-B.S. in ECE, [Seoul National University](https://ece.snu.ac.kr/en)
+M.S. in ECE, [University of Southern California](https://minghsiehece.usc.edu)  
+B.S. in ECE, [Seoul National University](https://ece.snu.ac.kr/en)  
 
 profile:
   align: right
