@@ -53,6 +53,9 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
+social: true
+
+
 # Dimensions
 max_width: 930px
 
@@ -290,10 +293,8 @@ scholar:
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  linkedin: true 
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -641,3 +642,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Social links
+# -----------------------------------------------------------------------------
+
+social:
+  linkedin: bumjoon-rhee-682009233  # ← Replace 'bkrhee' with your actual LinkedIn username
