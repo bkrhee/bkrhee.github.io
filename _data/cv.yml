@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S.
+    - title: M.S. in Electrical and Computer Engineering
       institution: University of Southern California
       year: 2025 -
       description:
@@ -21,11 +21,11 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: B.S.
+    - title: B.S. in Electrical and Computer Engineering
       institution: Seoul National University
       year: 2020 - 2025
       description:
-        - Department of Electrical and Computer Engineering
+        - Description
 
 - title: Experience
   type: time_table
