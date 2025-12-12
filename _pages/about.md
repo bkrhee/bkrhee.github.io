@@ -23,8 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Bumjoon Rhee, an incoming M.S. ECE student at [University of Southern California](https://minghsiehece.usc.edu). I recently graduated from [Seoul National University](https://ece.snu.ac.kr/en), Department of ECE.  
+Hi, I'm Bumjoon Rhee, a M.S. student in Electrical Engineering at [University of Southern California](https://minghsiehece.usc.edu). I received my B.S. in Electrical and Computer Engineering from [Seoul National University](https://ece.snu.ac.kr/en). During my undergraduate studies, I interned as DRAM Design Engineer at [SK Hynix](https://www.skhynix.com).
 
-My interest lies in the area of energy-efficient circuits and systems for machine learning, with a current focus on analog computing approaches that enable highly efficient implementations. Specifically, I am exploring how analog mixed signal techniques can be leveraged to reduce power consumption and improve performance in machine learning workloads.
-
-If you are interested in similar topics, feel free to reach out through the links below!
+My interest lies in the area of energy-efficient circuits and systems for machine learning and its applications. I am particularly interested in optimizing designs across the circuit, architecture, and system levels to achieve high performance while being energy efficient. My goal is to develop circuits that enable efficient machine learning computation for wide range of applications such as robotics and biomedical, contributing to impactful technologies for the future.
