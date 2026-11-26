@@ -13,6 +13,7 @@ Prior to pursuing my Ph.D., I received my B.S. in Electrical and Computer Engine
 
 ## 📰 News
 -- **[Jan 2027]** Started my Ph.D. at USC.
+
 -- **[Nov 2026]** Two papers accepted to DATE 2027. One of them is my first research project and my first first-author paper! 🎉
 
 ## 📝 Publications
