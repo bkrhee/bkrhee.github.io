@@ -25,3 +25,7 @@ Prior to pursuing my Ph.D., I received my B.S. in Electrical and Computer Engine
 **STAMlet: Sparsity- and Thermal-Aware Mapping for Spiking Transformers on 2.5D Chiplet Accelerators**  
 Yiyang Bai, Arkapravo Ghosh, Varun Manjunath, **<u>Bumjoon Kyle Rhee</u>**, Priyadarshini Panda  
 *Design, Automation and Test in Europe Conference (DATE), 2027.*
+
+**SoloQ: Calibration-free Quantization for Diffusion Language Models** [[Paper]](https://arxiv.org/pdf/2610.07121)  
+Donghyun Lee, Arkapravo Ghosh, Varun Manjunath, **<u>Bumjoon Kyle Rhee</u>**, Hyunho Kook, Shiting Xiao, Youngeun Kim, Priyadarshini Panda  
+*arXiv*
